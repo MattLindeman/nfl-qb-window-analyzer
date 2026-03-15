@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# API keys
+.env
+
+# Data files (too large for GitHub)
+data/raw/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
