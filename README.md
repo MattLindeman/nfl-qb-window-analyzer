@@ -25,6 +25,15 @@
 
 ---
 
+## Development Approach
+
+This project was built spec-first. The full project specification — 
+covering architecture, data sources, schema design, modeling requirements, 
+and delivery criteria — is included as `NFL_QB_Championship_Window_Spec.docx`. 
+All 16 sections of the spec were implemented as written.
+
+---
+
 ## Installation & Setup
 
 ```bash
