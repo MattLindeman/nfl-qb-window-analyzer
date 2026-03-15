@@ -7,5 +7,5 @@
 ![Lookup](screenshots/QB-project-demo-4.png)
 
 ### Window Predictor
-![Predictor](screenshots/QB-project-demo.png)
+![Predictor](https://github.com/MattLindeman/nfl-qb-window-analyzer/blob/1ea86faf98ab78561d135bd27c33fd5ee7fadbdb/screenshots/QB-project-demo.png)
 ![Predictor Cont.](screenshots/QB-project-demo-2.png)
